@@ -24,3 +24,7 @@ def main():
 
 if __name__=='__main__':
     main()
+    
+ #   PROXY = {
+  #  'https': 'http://192.168.188.55:3128'
+#}  Если нужен прокси параметр для requests.get 
